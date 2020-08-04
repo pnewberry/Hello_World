@@ -2,6 +2,6 @@
  
  Adding one line
  
- 2?
+Should have been line 2
  
  Now adding line three
